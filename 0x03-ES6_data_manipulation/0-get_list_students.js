@@ -1,4 +1,3 @@
-/**Retrive a list of students in the arrat*/
 export default function getListStudents() {
   return [
     { firstName: 'Guillaume', id: 1, location: 'San Francisco' },
